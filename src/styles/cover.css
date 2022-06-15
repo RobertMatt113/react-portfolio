@@ -6,6 +6,17 @@
     color: white;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover > h1{
+    font-size: 75px;
+}
+
+.cover > p{
+    margin-top: 8px;
+    font-size: 18px;
 }
 
 .video{
