@@ -24,7 +24,7 @@ const Footer = () => {
                         <i className='bx bxl-instagram' ></i>
                     </a>
                     <a href="https://www.facebook.com/RobertoCMattus/" target='_blank' rel='noreferrer'>
-                        <i class='bx bxl-facebook'></i>
+                        <i className='bx bxl-facebook'></i>
                     </a>
                 </div>
             </div>

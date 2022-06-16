@@ -26,3 +26,16 @@
     position: absolute;
     z-index: -1;
 }
+
+@media screen and (max-width: 960px){
+    .cover > h1{
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .cover > p{
+        text-align: center;
+        font-size: 18px;
+        width: 85%;
+    }
+}
