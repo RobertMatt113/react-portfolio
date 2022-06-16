@@ -14,7 +14,7 @@ const Projects = () => {
             </div>
             <div className="projects-container">
                 <div className="projects-content">
-                    <a href="https://matt-ecommerse.netlify.app/">
+                    <a href="https://matt-ecommerse.netlify.app/" target='_blank' rel='noreferrer'>
                         <img src={img1} alt="" />
                     </a>
                     <div className='project-desc'>
@@ -22,7 +22,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="projects-content">
-                    <a href="https://pokeapi-matt.netlify.app/">
+                    <a href="https://pokeapi-matt.netlify.app/" target='_blank' rel='noreferrer'>
                         <img src={img2} alt="" />
                     </a>
                     <div className='project-desc'>
@@ -30,7 +30,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="projects-content">
-                    <a href="https://matt-rick-and-morty-app.netlify.app/">
+                    <a href="https://matt-rick-and-morty-app.netlify.app/" target='_blank' rel='noreferrer'>
                         <img src={img3} alt="" />
                     </a>
                     <div className='project-desc'>
@@ -38,7 +38,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="projects-content">
-                    <a href="https://mattweatherapp.netlify.app/">
+                    <a href="https://mattweatherapp.netlify.app/" target='_blank' rel='noreferrer'>
                         <img src={img4} alt="" />
                     </a>
                     <div className='project-desc'>

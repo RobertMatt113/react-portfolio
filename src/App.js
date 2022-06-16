@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import About from './components/About';
 import Cover from './components/Cover';
+import Footer from './components/Footer';
+import Info from './components/Info';
 import NavBar from './components/NavBar';
 import Projects from './components/Projects';
 
@@ -24,6 +26,8 @@ function App() {
       <Cover/>
       <About/>
       <Projects/>
+      <Info/>
+      <Footer/>
     </div>
   );
 }
