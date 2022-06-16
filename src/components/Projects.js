@@ -18,7 +18,7 @@ const Projects = () => {
                         <img src={img1} alt="" />
                     </a>
                     <div className='project-desc'>
-                        <span>Project 1</span>
+                        <span>e-commerse</span>
                     </div>
                 </div>
                 <div className="projects-content">
@@ -26,7 +26,7 @@ const Projects = () => {
                         <img src={img2} alt="" />
                     </a>
                     <div className='project-desc'>
-                        <span>Project 2</span>
+                        <span>pokeAPI</span>
                     </div>
                 </div>
                 <div className="projects-content">
@@ -34,7 +34,7 @@ const Projects = () => {
                         <img src={img3} alt="" />
                     </a>
                     <div className='project-desc'>
-                        <span>Project 3</span>
+                        <span>Rick and Morty App</span>
                     </div>
                 </div>
                 <div className="projects-content">
@@ -42,7 +42,7 @@ const Projects = () => {
                         <img src={img4} alt="" />
                     </a>
                     <div className='project-desc'>
-                        <span>Project 4</span>
+                        <span>Weather App</span>
                     </div>
                 </div>
             </div>
