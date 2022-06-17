@@ -20,7 +20,7 @@ const Footer = () => {
                     <a href="mailto:robertmatt113@gmail.com" target='_blank' rel='noreferrer'>
                         <i className='bx bxl-gmail'></i>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=529842051122&text=Hello!" target='_blank' rel='noreferrer'>
+                    <a href="https://api.whatsapp.com/send?phone=529842051122&text=Hello! Are you available? My name is" target='_blank' rel='noreferrer'>
                         <i className='bx bxl-whatsapp'></i>
                     </a>
                     <a href="https://www.linkedin.com/in/roberto-mattus-b7b615231/" target='_blank' rel='noreferrer'>

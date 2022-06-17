@@ -12,7 +12,7 @@ const Cover = () => {
                 <Typewriter
                     cursor
                     cursorStyle='_'
-                    typeSpeed={250}
+                    typeSpeed={200}
                     words={['Full Stack Developer']}
                 />
             </p>

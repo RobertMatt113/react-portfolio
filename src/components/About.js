@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/about.css'
 import aboutPicture from '../media/about-picture.jpg'
+import { Typewriter } from 'react-simple-typewriter';
 
 const About = () => {
     return (
@@ -14,7 +15,15 @@ const About = () => {
                     <br />
                     I am currently perfecting my knowledge in <b>NodeJS</b> along with everything necessary to make optimal use of it; <b>postgreSQL</b>, <b>Express</b>, etc. (Backend development).<br />
                     <br />
-                    My <b>core strengths</b> are the passion for creation, I know how to work alone and I know how to work in a team as well. I am <b>empathic</b> and quite <b>disciplined</b>.
+                    My <b>core strengths</b> are the passion for creation, I know how to work alone and 
+                    <span> 
+                        <Typewriter 
+                            cursor
+                            cursorStyle='_'
+                            typeSpeed={150}
+                            words={[' I know how to work in a team as well. I am empathic and quite disciplined.']}
+                        /> 
+                    </span>
                 </p>
             </div>
             <div className="about-img">
