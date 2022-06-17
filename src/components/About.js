@@ -12,9 +12,9 @@ const About = () => {
                     <br />
                     I have experience using <b>HTML5</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactJS</b>, <b>Git</b>. (Frontend development).<br />
                     <br />
-                    I am currently perfecting my knowledge in <b>NodeJs</b> along with everything necessary to make optimal use of it; <b>postgreSQL</b>, <b>Express</b>, etc. (Backend development).<br />
+                    I am currently perfecting my knowledge in <b>NodeJS</b> along with everything necessary to make optimal use of it; <b>postgreSQL</b>, <b>Express</b>, etc. (Backend development).<br />
                     <br />
-                    My <b>core strengths</b> are the passion for creation, I know how to work alone and I know how to work in a team as well. I am <b>empathic</b> and I am quite <b>disciplined</b>.
+                    My <b>core strengths</b> are the passion for creation, I know how to work alone and I know how to work in a team as well. I am <b>empathic</b> and quite <b>disciplined</b>.
                 </p>
             </div>
             <div className="about-img">
