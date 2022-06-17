@@ -11,7 +11,7 @@ const About = () => {
                 <p>
                     I am a <b>Software Development Engineer</b> student and also a member of Academlo Computer Science Academy. <br />
                     <br />
-                    I have experience using <b>HTML5</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactJS</b>, <b>Git</b>. (Frontend development).<br />
+                    I have experience using <b>HTML5</b>, <b>CSS</b>, <b>Tailwind CSS</b>, <b>JavaScript</b>, <b>ReactJS</b>, <b>Git</b>. (Frontend development).<br />
                     <br />
                     I am currently perfecting my knowledge in <b>NodeJS</b> along with everything necessary to make optimal use of it; <b>postgreSQL</b>, <b>Express</b>, etc. (Backend development).<br />
                     <br />
