@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/navbar.css';
-import cv from '../media/CV_Mattus_Ledezma_Roberto_Carlos.pdf'
+import cv from '../media/cv-portfolio.pdf'
 
 const NavBar = ({isScrolling}) => {
 
